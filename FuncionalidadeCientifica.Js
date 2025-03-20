@@ -14,3 +14,4 @@ function calculate() {
         clearDisplay();
     }
 }
+window.history.pushState({}, '', '/novapagina');
